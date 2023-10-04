@@ -19,3 +19,5 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Case-Shiller CA-LA National Home Price Index](https://fred.stlouisfed.org/series/LXXRSA)
 - [Case-Shiller CA-SD Home Price Index](https://fred.stlouisfed.org/series/SDXRSA)
 - [Case-Shiller CA-SF Home Price Index](https://fred.stlouisfed.org/series/SFXRSA)
+- [Case-Shiller WA-Seattle Home Price Index)](https://fred.stlouisfed.org/series/SEXRNSA)
+
