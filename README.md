@@ -1,2 +1,2 @@
 # Macroeconomic-Indicators
-Macroeconomic indicators to understand how the economy is doing.
+This project lists macroeconomic indicators to understand how the economy is doing and to spot investment opportunities.
