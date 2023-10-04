@@ -4,6 +4,8 @@ This project lists macroeconomic indicators to understand how the economy is doi
 ### Exchange Rates
 - [EUR-USD](https://www.google.com/finance/quote/EUR-USD)
 - [GBP-USD](https://www.google.com/finance/quote/GBP-USD)
+- [CNY-USD](https://www.google.com/finance/quote/CNY-USD)
+
 ### Interest Rates
 
 
