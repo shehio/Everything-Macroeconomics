@@ -16,3 +16,4 @@ This project lists macroeconomic indicators to understand how the economy is doi
 
 ### Housing Markets
 - [Case-Shiller U.S. National Home Price Index](https://fred.stlouisfed.org/series/CSUSHPINSA)
+- [Case-Shiller CA-Los Angeles National Home Price Index](https://fred.stlouisfed.org/series/LXXRSA)
