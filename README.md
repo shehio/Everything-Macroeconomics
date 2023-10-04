@@ -8,7 +8,7 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [JPY-USD](https://www.google.com/finance/quote/JPY-USD)
 
 ### Interest Rates
-
+[Federal funds rate](https://fred.stlouisfed.org/series/FEDFUNDS)
 
 ### Inflation Rates
 
