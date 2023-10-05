@@ -24,4 +24,4 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Case-Shiller MA-Boston Home Price Index](https://fred.stlouisfed.org/series/BOXRSA)
 
 ### Policy Glossary
-- [Leprechaun_Economics](https://en.wikipedia.org/wiki/Leprechaun_economics)
+- [Leprechaun Economics](https://en.wikipedia.org/wiki/Leprechaun_economics)
