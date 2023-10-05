@@ -23,3 +23,5 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Case-Shiller NY-NY Home Price Index](https://fred.stlouisfed.org/series/NYXRSA)
 - [Case-Shiller MA-Boston Home Price Index](https://fred.stlouisfed.org/series/BOXRSA)
 
+### Policy Glossary
+- [Leprechaun_Economics](https://en.wikipedia.org/wiki/Leprechaun_economics)
