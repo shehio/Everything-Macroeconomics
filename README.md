@@ -49,6 +49,7 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Gini Coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
 - [The Elephant Curve](https://en.wikipedia.org/wiki/The_Elephant_Curve)
 - [Great Gatsby Curve](https://en.wikipedia.org/wiki/Great_Gatsby_Curve)
+- [Social Insurance](https://en.wikipedia.org/wiki/Social_insurance)
 
 #### Dilemmas
 - [Phillips Curve](https://en.wikipedia.org/wiki/Phillips_curve)
