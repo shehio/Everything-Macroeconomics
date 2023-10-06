@@ -23,5 +23,22 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Case-Shiller NY-NY Home Price Index](https://fred.stlouisfed.org/series/NYXRSA)
 - [Case-Shiller MA-Boston Home Price Index](https://fred.stlouisfed.org/series/BOXRSA)
 
-### Policy Glossary
+### Economics Glossary
+#### Primitives
+- [Opportunity Cost](https://en.wikipedia.org/wiki/Opportunity_cost)
+- [Unemployment](https://en.wikipedia.org/wiki/Unemployment)
+- [Inflation](https://en.wikipedia.org/wiki/Inflation)
+- [Animal Spirits](https://en.wikipedia.org/wiki/Animal_spirits_(Keynes))
+- [Business Cycle](https://en.wikipedia.org/wiki/Business_cycle)
+
+#### Policy
+- [Fiscal Policy](https://en.wikipedia.org/wiki/Fiscal_policy)
+- [Monetary Policy](https://en.wikipedia.org/wiki/Monetary_policy)
+
+#### History
+- [Great Recession](https://en.wikipedia.org/wiki/Great_Recession)
+- [Great Depression](https://en.wikipedia.org/wiki/Great_Depression)
+
+#### Dilemmas
+- [Phillips Curve](https://en.wikipedia.org/wiki/Phillips_curve)
 - [Leprechaun Economics](https://en.wikipedia.org/wiki/Leprechaun_economics)
