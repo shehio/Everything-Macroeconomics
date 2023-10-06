@@ -36,14 +36,12 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Business Cycle](https://en.wikipedia.org/wiki/Business_cycle)
 - [Financial Market](https://en.wikipedia.org/wiki/Financial_market)
 
-#### Revenue and Spending
-- [Government Spending](https://en.wikipedia.org/wiki/Government_spending)
-- [Consumption](https://en.wikipedia.org/wiki/Household_final_consumption_expenditure)
-- [Trade Balance](https://en.wikipedia.org/wiki/Balance_of_trade)
-
 #### Policy
-- [Fiscal Policy](https://en.wikipedia.org/wiki/Fiscal_policy)
 - [Monetary Policy](https://en.wikipedia.org/wiki/Monetary_policy)
+- [Fiscal Policy](https://en.wikipedia.org/wiki/Fiscal_policy)
+  - [Government Spending](https://en.wikipedia.org/wiki/Government_spending)
+  - [Consumption](https://en.wikipedia.org/wiki/Household_final_consumption_expenditure)
+  - [Trade Balance](https://en.wikipedia.org/wiki/Balance_of_trade)
 
 #### Inequality
 - [Gini Coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
