@@ -38,6 +38,9 @@ This project lists macroeconomic indicators to understand how the economy is doi
 
 #### Policy
 - [Monetary Policy](https://en.wikipedia.org/wiki/Monetary_policy)
+  - [Exchange Rate](https://en.wikipedia.org/wiki/Exchange_rate)
+  - [Quantitative Easing](https://en.wikipedia.org/wiki/Quantitative_easing)
+  - [Interest Rate](https://en.wikipedia.org/wiki/Federal_funds_rate)
 - [Fiscal Policy](https://en.wikipedia.org/wiki/Fiscal_policy)
   - [Government Spending](https://en.wikipedia.org/wiki/Government_spending)
   - [Consumption](https://en.wikipedia.org/wiki/Household_final_consumption_expenditure)
