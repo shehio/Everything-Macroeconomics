@@ -10,6 +10,7 @@ This project lists macroeconomic indicators to understand how the economy is doi
 ### Interest Rates
 - [Federal funds rate](https://fred.stlouisfed.org/series/FEDFUNDS)
 - [China Loan Prime Rate](https://ycharts.com/indicators/china_loan_prime_rate)
+- [Bank of England Official Bank Rate](https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate)
 
 ### Inflation Rates
 - [US CPI](https://fred.stlouisfed.org/series/CPIAUCSL)
