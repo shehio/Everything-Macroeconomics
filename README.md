@@ -35,17 +35,26 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Animal Spirits](https://en.wikipedia.org/wiki/Animal_spirits_(Keynes))
 - [Business Cycle](https://en.wikipedia.org/wiki/Business_cycle)
 - [Financial Market](https://en.wikipedia.org/wiki/Financial_market)
+
+#### Revenue and Spending
+- [Government Spending](https://en.wikipedia.org/wiki/Government_spending)
+- [Consumption](https://en.wikipedia.org/wiki/Household_final_consumption_expenditure)
 - [Trade Balance](https://en.wikipedia.org/wiki/Balance_of_trade)
 
 #### Policy
 - [Fiscal Policy](https://en.wikipedia.org/wiki/Fiscal_policy)
 - [Monetary Policy](https://en.wikipedia.org/wiki/Monetary_policy)
 
-#### History
-- [Great Recession](https://en.wikipedia.org/wiki/Great_Recession)
-- [Great Depression](https://en.wikipedia.org/wiki/Great_Depression)
+#### Inequality
+- [Gini Coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
+- [The Elephant Curve](https://en.wikipedia.org/wiki/The_Elephant_Curve)
+- [Great Gatsby Curve](https://en.wikipedia.org/wiki/Great_Gatsby_Curve)
 
 #### Dilemmas
 - [Phillips Curve](https://en.wikipedia.org/wiki/Phillips_curve)
 - [Leprechaun Economics](https://en.wikipedia.org/wiki/Leprechaun_economics)
 - [Tax Evasion](https://en.wikipedia.org/wiki/Tax_evasion)
+
+#### History
+- [Great Recession](https://en.wikipedia.org/wiki/Great_Recession)
+- [Great Depression](https://en.wikipedia.org/wiki/Great_Depression)
