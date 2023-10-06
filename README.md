@@ -30,6 +30,8 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Inflation](https://en.wikipedia.org/wiki/Inflation)
 - [Animal Spirits](https://en.wikipedia.org/wiki/Animal_spirits_(Keynes))
 - [Business Cycle](https://en.wikipedia.org/wiki/Business_cycle)
+- [Financial Market](https://en.wikipedia.org/wiki/Financial_market)
+- [Trade Balance](https://en.wikipedia.org/wiki/Balance_of_trade)
 
 #### Policy
 - [Fiscal Policy](https://en.wikipedia.org/wiki/Fiscal_policy)
