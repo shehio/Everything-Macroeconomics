@@ -14,10 +14,8 @@ This project lists macroeconomic indicators to understand how the economy is doi
 ### Inflation Rates
 - [US CPI](https://fred.stlouisfed.org/series/CPIAUCSL)
 - [UK CPI](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23)
-- [JP CPI Official](https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200573&tstat=000001150147&cycle=1&tclass1=000001150149&tclass2val=0)
-- [JP CPI Derived](https://ycharts.com/indicators/japan_inflation_rate)
-- [CN CPI Official](https://data.stats.gov.cn/english/easyquery.htm?cn=A01)
-- [CN CPI Derived](https://ycharts.com/indicators/china_inflation_rate)
+- JP CPI [Official](https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200573&tstat=000001150147&cycle=1&tclass1=000001150149&tclass2val=0), [Derived](https://ycharts.com/indicators/japan_inflation_rate)
+- CN CPI [Official](https://data.stats.gov.cn/english/easyquery.htm?cn=A01), [Derived](https://ycharts.com/indicators/china_inflation_rate)
 ### Housing Markets
 - [Case-Shiller U.S. National Home Price Index](https://fred.stlouisfed.org/series/CSUSHPINSA)
 - [Case-Shiller CA-LA National Home Price Index](https://fred.stlouisfed.org/series/LXXRSA)
