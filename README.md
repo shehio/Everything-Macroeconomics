@@ -12,7 +12,8 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [China Loan Prime Rate](https://ycharts.com/indicators/china_loan_prime_rate)
 
 ### Inflation Rates
-- [Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
+- [US CPI](https://fred.stlouisfed.org/series/CPIAUCSL)
+- [UK CPI](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23)
 
 ### Housing Markets
 - [Case-Shiller U.S. National Home Price Index](https://fred.stlouisfed.org/series/CSUSHPINSA)
