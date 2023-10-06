@@ -12,6 +12,7 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [China Loan Prime Rate](https://ycharts.com/indicators/china_loan_prime_rate)
 - [Bank of England Official Bank Rate](https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate)
 - [European Central Bank (ECB) Interest Rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html)
+- [Bank of Japan (BOJ) Interest Rate](https://www.investing.com/economic-calendar/interest-rate-decision-165)
 
 ### Inflation Rates
 - [US CPI](https://fred.stlouisfed.org/series/CPIAUCSL)
