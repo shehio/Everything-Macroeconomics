@@ -24,13 +24,7 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - CN CPI [Official](https://data.stats.gov.cn/english/easyquery.htm?cn=A01), [YCharts](https://ycharts.com/indicators/china_inflation_rate), [Investing](https://www.investing.com/economic-calendar/chinese-cpi-459)
 
 ### Housing Markets
-- [Case-Shiller U.S. National Home Price Index](https://fred.stlouisfed.org/series/CSUSHPINSA)
-- [Case-Shiller CA-LA National Home Price Index](https://fred.stlouisfed.org/series/LXXRSA)
-- [Case-Shiller CA-SD Home Price Index](https://fred.stlouisfed.org/series/SDXRSA)
-- [Case-Shiller CA-SF Home Price Index](https://fred.stlouisfed.org/series/SFXRSA)
-- [Case-Shiller WA-Seattle Home Price Index](https://fred.stlouisfed.org/series/SEXRNSA)
-- [Case-Shiller NY-NY Home Price Index](https://fred.stlouisfed.org/series/NYXRSA)
-- [Case-Shiller MA-Boston Home Price Index](https://fred.stlouisfed.org/series/BOXRSA)
+- Case-Shiller Home Price Index: [U.S. National](https://fred.stlouisfed.org/series/CSUSHPINSA), [CA-LA](https://fred.stlouisfed.org/series/LXXRSA), [CA-SD](https://fred.stlouisfed.org/series/SDXRSA), [CA-SF](https://fred.stlouisfed.org/series/SFXRSA), [WA-Seattle](https://fred.stlouisfed.org/series/SEXRNSA), [NY-NY](https://fred.stlouisfed.org/series/NYXRSA), [MA-Boston](https://fred.stlouisfed.org/series/BOXRSA)
 
 ### Commodities 
 - [SPDR Gold Trust (GLD)](https://www.google.com/finance/quote/GLD:NYSEARCA)
