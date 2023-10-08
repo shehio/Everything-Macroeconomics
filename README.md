@@ -1,5 +1,8 @@
-# Macroeconomic-Indicators
+# Everything-Macroeconomics
 This project lists macroeconomic indicators to understand how the economy is doing and to spot investment opportunities. This list isn't comprehensive and doesn't try to cover every economy in the world. It attempts to cover the most common economies and currencies with a significant bias toward the United States because of the status of the US Dollar as the major reserve currency and the market capitalization of both NYSE and NASDAQ.
+
+
+## Indicators
 
 ### Exchange Rates
 - [EUR-USD](https://www.google.com/finance/quote/EUR-USD)
@@ -19,6 +22,7 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [UK CPI](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23)
 - JP CPI [Official](https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200573&tstat=000001150147&cycle=1&tclass1=000001150149&tclass2val=0), [YCharts](https://ycharts.com/indicators/japan_inflation_rate), [Investing](https://www.investing.com/economic-calendar/cpi,-n.s.a-1909)
 - CN CPI [Official](https://data.stats.gov.cn/english/easyquery.htm?cn=A01), [YCharts](https://ycharts.com/indicators/china_inflation_rate), [Investing](https://www.investing.com/economic-calendar/chinese-cpi-459)
+
 ### Housing Markets
 - [Case-Shiller U.S. National Home Price Index](https://fred.stlouisfed.org/series/CSUSHPINSA)
 - [Case-Shiller CA-LA National Home Price Index](https://fred.stlouisfed.org/series/LXXRSA)
@@ -28,7 +32,7 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Case-Shiller NY-NY Home Price Index](https://fred.stlouisfed.org/series/NYXRSA)
 - [Case-Shiller MA-Boston Home Price Index](https://fred.stlouisfed.org/series/BOXRSA)
 
-### Economics Glossary
+## Glossary
 #### Primitives
 - [Opportunity Cost](https://en.wikipedia.org/wiki/Opportunity_cost)
 - [Unemployment](https://en.wikipedia.org/wiki/Unemployment)
