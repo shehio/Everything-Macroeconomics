@@ -32,6 +32,10 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [WTI Oil Futures Contracts (USO)](https://www.google.com/finance/quote/USO:NYSEARCA)
 - [Brent Oil Futures Contracts (BNO)](https://www.google.com/finance/quote/BNO:NYSEARCA)
 
+### Crytpo
+- [Bitcoin](https://www.google.com/finance/quote/BTC-USD)
+- [Ether](https://www.google.com/finance/quote/ETH-USD)
+
 ## Glossary
 #### Primitives
 - [Opportunity Cost](https://en.wikipedia.org/wiki/Opportunity_cost)
