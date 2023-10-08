@@ -32,6 +32,12 @@ This project lists macroeconomic indicators to understand how the economy is doi
 - [Case-Shiller NY-NY Home Price Index](https://fred.stlouisfed.org/series/NYXRSA)
 - [Case-Shiller MA-Boston Home Price Index](https://fred.stlouisfed.org/series/BOXRSA)
 
+### Commodities 
+- [SPDR Gold Trust (GLD)](https://www.google.com/finance/quote/GLD:NYSEARCA)
+- [IShare Silver Trust (SLV)](https://www.google.com/finance/quote/SLV:NYSEARCA)
+- [WTI Oil Futures Contracts (USO)](https://www.google.com/finance/quote/USO:NYSEARCA)
+- [Brent Oil Futures Contracts (BNO)](https://www.google.com/finance/quote/BNO:NYSEARCA)
+
 ## Glossary
 #### Primitives
 - [Opportunity Cost](https://en.wikipedia.org/wiki/Opportunity_cost)
